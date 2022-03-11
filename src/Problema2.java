@@ -9,7 +9,7 @@ public class Problema2 {
                 res += num + "Buzz";
             }
             if (num % 3 == 0 && num % 5 == 0){
-                res += num + "BuzzFizz";
+                res += num + "FizzBuzz";
             }
             else{
 
